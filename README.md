@@ -24,7 +24,7 @@
   <img align="center" alt="Amanda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Amanda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Amanda-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Amanda-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/35099919/187740777-3b73a02a-0379-451a-abf5-b387e9773ad6.png?width=676&height=676">
+  <img align="right" alt="Amanda-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/35099919/187743459-dd5cd561-2964-45b5-b1ff-5f497025a254.png">
 </div>
 
   ##
