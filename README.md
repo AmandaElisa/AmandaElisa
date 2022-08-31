@@ -10,8 +10,8 @@
 
 <div>
   <a href="https://github.com/AmandaElisa">
+  <!--
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AmandaElisa&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-   <!--
    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaElisa&layout=compact&langs_count=7&theme=buefy"/>
     -->
 </div>
@@ -22,6 +22,7 @@
   <img align="center" alt="Amanda-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Amanda-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="Amanda-AndroidStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
+  <img align="center" alt="Amanda-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Amanda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Amanda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Amanda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
