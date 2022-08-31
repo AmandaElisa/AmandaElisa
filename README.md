@@ -1,8 +1,6 @@
 <h2> Olá! Eu sou a Amanda Elisa 🪄</h2>
 <p>
 
-**💡Sobre mim**
-
 - 📍 DF
 - 👩🏻‍🎓 Graduanda em Ciência da Computação na faculdade IESB
 - 📎 Estagiária de Business Intelligence na Kyte App
