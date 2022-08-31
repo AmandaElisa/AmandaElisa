@@ -5,7 +5,7 @@
 
 - 📍 DF
 - 👩🏻‍🎓 Graduanda em Ciência da Computação na faculdade IESB
-- 📎Atualmente sou estagiária de Business Intelligence na Kyte App
+- 📎 Estagiária de Business Intelligence na Kyte App
 - 🧚🏻‍♀️ Estudando para me tornar desenvolvedora front-end mobile, como foco em interfaces responsivas e inclusivas. 
 
 <div>
