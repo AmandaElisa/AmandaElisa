@@ -5,8 +5,8 @@
 
 - 📍 DF
 - 👩🏻‍🎓 Graduanda em Ciência da Computação na faculdade IESB
-- 📎Sou apaixonada por tecnologia e os benefícios que ela pode trazer à sociedade. Em especial, o desenvolvimento de interfaces adaptativas, responsivas e inclusivas. 
-- 🧚🏻‍♀️Atualmente sou estagiária de Business Intelligence mas estou estudando para me tornar desenvolvedora front-end mobile.
+- 📎Atualmente sou estagiária de Business Intelligence na Kyte App
+- 🧚🏻‍♀️ mas estou estudando para me tornar desenvolvedora front-end mobile, como foco em interfaces responsivas e inclusivas. 
 
 <div>
   <a href="https://github.com/AmandaElisa">
