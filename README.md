@@ -2,10 +2,8 @@
 <p>
 
 - 📍 DF
-- 👩🏻‍🎓 Graduanda em Ciência da Computação no Centro Universitário IESB
-- 📎 Estagiária de Business Intelligence na Kyte App
-- 🧚🏻‍♀️ Estudando para me tornar desenvolvedora front-end, como foco em interfaces responsivas e inclusivas
-
+- 👩🏻‍🎓 Graduada em Ciência da Computação no Centro Universitário IESB
+- 📎 Business Intelligence Analyst Jr. na Kyte App
 <div>
   <a href="https://github.com/AmandaElisa">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AmandaElisa&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
