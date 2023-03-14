@@ -1,4 +1,4 @@
-<h2> Olá! Eu sou a Amanda Elisa 🪄</h2>
+<h2> Olá! Eu sou a Amanda Elisa 🪄🧚🏻‍♀️</h2>
 <p>
 
 - 📍 DF
