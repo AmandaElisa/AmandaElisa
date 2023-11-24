@@ -3,7 +3,7 @@
 
 - 📍 DF
 - 👩🏻‍🎓 Graduada em Ciência da Computação no Centro Universitário IESB
-- 📎 Business Intelligence Analyst Jr. na Kyte App
+- 📎 Business Intelligence Analyst na Kyte App
 <div>
   <a href="https://github.com/AmandaElisa">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AmandaElisa&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
